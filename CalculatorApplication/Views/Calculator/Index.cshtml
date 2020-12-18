@@ -1,0 +1,48 @@
+﻿@model CalculatorApplication.Models.Calculator
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" charset="utf-8" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form action="Calculator" method="post">
+        <h1>Basic Calculator</h1>
+        <div>
+            <label>
+                Enter First Number
+                <input type="text" name="firstNumber" id="firstNumber" value="@Model.firstNumber" />
+            </label>
+        </div>
+
+        <div>
+            <label>
+                Enter Second Number
+                <input type="text" name="secondNumber" id="secondNumber" value="@Model.secondNumber" />
+            </label>
+        </div>
+
+        <div>
+            <label for="final">Select Operator</label>
+            <button type="submit" name="final" value="Addition" id="Addition">Addition</button>
+            <button type="submit" name="final" value="Subtraction" id="Subtraction">Subtraction</button>
+            <button type="submit" name="final" value="Multiplication" id="Multiplication">Multiplication</button>
+            <button type="submit" name="final" value="Division" id="Divison">Division</button>
+        </div>
+
+        <div>
+            <label>Result: </label>
+            <input type="text" name="result" value="@Model.result" />
+        </div>
+
+
+        <label for="message" id="message">@Model.message</label>
+
+    </form>
+
+</body>
+</html>

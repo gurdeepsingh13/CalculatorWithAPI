@@ -1,0 +1,9 @@
+/Users/walia/Projects/CalculatorApplication/CalculatorLibrary/bin/Debug/netcoreapp3.1/CalculatorLibrary.deps.json
+/Users/walia/Projects/CalculatorApplication/CalculatorLibrary/bin/Debug/netcoreapp3.1/CalculatorLibrary.dll
+/Users/walia/Projects/CalculatorApplication/CalculatorLibrary/bin/Debug/netcoreapp3.1/CalculatorLibrary.pdb
+/Users/walia/Projects/CalculatorApplication/CalculatorLibrary/obj/Debug/netcoreapp3.1/CalculatorLibrary.csprojAssemblyReference.cache
+/Users/walia/Projects/CalculatorApplication/CalculatorLibrary/obj/Debug/netcoreapp3.1/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/walia/Projects/CalculatorApplication/CalculatorLibrary/obj/Debug/netcoreapp3.1/CalculatorLibrary.AssemblyInfo.cs
+/Users/walia/Projects/CalculatorApplication/CalculatorLibrary/obj/Debug/netcoreapp3.1/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/walia/Projects/CalculatorApplication/CalculatorLibrary/obj/Debug/netcoreapp3.1/CalculatorLibrary.dll
+/Users/walia/Projects/CalculatorApplication/CalculatorLibrary/obj/Debug/netcoreapp3.1/CalculatorLibrary.pdb
